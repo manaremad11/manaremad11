@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manaremad11
 - 👀 I’m recent graduated from faculty of computers and artificial intelligence, cairo university
 - 🌱 I’m currently learning AI, Machine learning, Deep learning, Testing, Supply Chain
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/manar-emad-3b1790235
 
 <!---
